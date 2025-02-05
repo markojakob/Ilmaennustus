@@ -1,0 +1,17 @@
+C:\Users\markj\source\repos\Ilmaennustus\Ilmaennustus\bin\Debug\net9.0\Ilmaennustus.exe
+C:\Users\markj\source\repos\Ilmaennustus\Ilmaennustus\bin\Debug\net9.0\Ilmaennustus.deps.json
+C:\Users\markj\source\repos\Ilmaennustus\Ilmaennustus\bin\Debug\net9.0\Ilmaennustus.runtimeconfig.json
+C:\Users\markj\source\repos\Ilmaennustus\Ilmaennustus\bin\Debug\net9.0\Ilmaennustus.dll
+C:\Users\markj\source\repos\Ilmaennustus\Ilmaennustus\bin\Debug\net9.0\Ilmaennustus.pdb
+C:\Users\markj\source\repos\Ilmaennustus\Ilmaennustus\obj\Debug\net9.0\Ilmaennustus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markj\source\repos\Ilmaennustus\Ilmaennustus\obj\Debug\net9.0\Ilmaennustus.AssemblyInfoInputs.cache
+C:\Users\markj\source\repos\Ilmaennustus\Ilmaennustus\obj\Debug\net9.0\Ilmaennustus.AssemblyInfo.cs
+C:\Users\markj\source\repos\Ilmaennustus\Ilmaennustus\obj\Debug\net9.0\Ilmaennustus.csproj.CoreCompileInputs.cache
+C:\Users\markj\source\repos\Ilmaennustus\Ilmaennustus\obj\Debug\net9.0\Ilmaennustus.dll
+C:\Users\markj\source\repos\Ilmaennustus\Ilmaennustus\obj\Debug\net9.0\refint\Ilmaennustus.dll
+C:\Users\markj\source\repos\Ilmaennustus\Ilmaennustus\obj\Debug\net9.0\Ilmaennustus.pdb
+C:\Users\markj\source\repos\Ilmaennustus\Ilmaennustus\obj\Debug\net9.0\Ilmaennustus.genruntimeconfig.cache
+C:\Users\markj\source\repos\Ilmaennustus\Ilmaennustus\obj\Debug\net9.0\ref\Ilmaennustus.dll
+C:\Users\markj\source\repos\Ilmaennustus\Ilmaennustus\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\markj\source\repos\Ilmaennustus\Ilmaennustus\obj\Debug\net9.0\Ilmaennustus.csproj.AssemblyReference.cache
+C:\Users\markj\source\repos\Ilmaennustus\Ilmaennustus\obj\Debug\net9.0\Ilmaennu.04A28CC9.Up2Date
