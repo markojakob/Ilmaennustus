@@ -15,3 +15,4 @@ C:\Users\markj\source\repos\Ilmaennustus\Ilmaennustus\obj\Debug\net9.0\ref\Ilmae
 C:\Users\markj\source\repos\Ilmaennustus\Ilmaennustus\bin\Debug\net9.0\Newtonsoft.Json.dll
 C:\Users\markj\source\repos\Ilmaennustus\Ilmaennustus\obj\Debug\net9.0\Ilmaennustus.csproj.AssemblyReference.cache
 C:\Users\markj\source\repos\Ilmaennustus\Ilmaennustus\obj\Debug\net9.0\Ilmaennu.04A28CC9.Up2Date
+C:\Users\markj\source\repos\Ilmaennustus\Ilmaennustus\obj\Debug\net9.0\Ilmaennustus.sourcelink.json
